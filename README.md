@@ -28,7 +28,7 @@ Brief description of functions contained in project:
 - main: initialize program.
 
 
-# Authors Contact Information
-GitHub: [dennisappiahALX](https://github.com/dennisappiahALX), [Berl-lin](https://github.com/Berl-lin)
 
-Twitter: [kofi_tech](https://twitter.com/kofi_tech), [berla_sterling](https://twitter.com/berla_sterling)
+
+
+
